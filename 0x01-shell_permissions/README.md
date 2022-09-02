@@ -1,1 +1,1 @@
-switches the current user
+current user
