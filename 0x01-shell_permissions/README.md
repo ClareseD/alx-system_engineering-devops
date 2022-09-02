@@ -1,1 +1,1 @@
-current user
+script that prints all the groups
