@@ -1,1 +1,1 @@
-owner group no permission
+Mode of the file
