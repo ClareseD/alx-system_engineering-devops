@@ -1,1 +1,1 @@
-Permission owner group other
+owner group no permission
