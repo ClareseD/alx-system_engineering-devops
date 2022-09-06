@@ -1,1 +1,1 @@
-Script that display the third line of the file
+Shell script that creates a file
