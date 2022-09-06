@@ -1,1 +1,1 @@
-Lets display a file
+Display the content
