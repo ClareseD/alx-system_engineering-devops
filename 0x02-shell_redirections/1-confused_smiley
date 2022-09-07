@@ -1,1 +1,2 @@
-Display a confused smiley
+#!/bin/bash
+echo "\"(Ôo)'"
